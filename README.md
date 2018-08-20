@@ -4,11 +4,11 @@ Para cada opção que o usuário possa ter, em muitos casos, há uma solução p
 
 Contudo, já existe uma solução para esta façanha e ela se chama Media Print!
 
-O @Media Print é uma das opções de Media Queries que adapta o conteúdo de uma página web para a impressão. Assim como o Media Screen adapta o conteúdo de uma página desktop para uma página mobile.
+O @Media Print é uma das opções de Media Queries que adapta o conteúdo de uma página web para a impressão. Assim como o Media Screen adapta o conteúdo de uma página desktop para um dispositivo mobile.
 
 Apesar de ser um tanto desconhecido, esse tipo de adaptação não deixa de ser importante, pois existem usuários que fazem impressões e não necessariamente de um arquivo ou página web pré-determinada para isto.
 
-Além de um menu de navegação desnecessário em uma folha impressa, há também questões de formatação, como uma cor ter mudado ou uma div que tenha crescido ou diminuído demais. Para isso nós usamos o Media Print e determinamos as propriedades, assim como no Media Screen.
+Nessas impressões, além de um menu de navegação desnecessário em uma folha impressa, há também questões de formatação, como uma cor ter mudado ou uma div que tenha crescido ou diminuído demais. Para isso nós usamos o Media Print e determinamos as propriedades, assim como no Media Screen.
 
 
 ## Exemplo de Media Print:
