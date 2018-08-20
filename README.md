@@ -73,9 +73,9 @@ Basicamente ele é bem parecido com o @Media Print, porém mais optado se as mud
  }
 ```
 
-Obs: Em relação a impressão é indicado que se troque a unidade de medida como “px” para “pt” em caso de font-size ou “px” para “cm” em caso de alinhamento.
+#### Obs: Em relação a impressão é indicado que se troque a unidade de medida como “px” para “pt” em caso de font-size ou “px” para “cm” em caso de alinhamento.
 
 
 Constatando, não se esqueça que uma impressão, apesar de ter o direito de ficar bonita, ela precisa se manter útil e passar a informação contida na página web que foi extraída. Nada de banners, propagandas ou menu de navegação em papel!
 
-Já dizia o urso Balu de Mogli: “Somente o necessário, o extraordinário é demais.”
+##### Já dizia o urso Balu de Mogli: “Somente o necessário, o extraordinário é demais.”
