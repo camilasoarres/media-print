@@ -11,7 +11,7 @@ Apesar de ser um tanto desconhecido, esse tipo de adaptação não deixa de ser 
 Além de um menu de navegação desnecessário em uma folha impressa, há também questões de formatação, como uma cor ter mudado ou uma div que tenha crescido ou diminuído demais. Para isso nós usamos o Media Print e determinamos as propriedades, assim como no Media Screen.
 
 
-### Exemplo de Media Print:
+## Exemplo de Media Print:
 ```
   @media print {
     .container {
@@ -35,13 +35,13 @@ Além de um menu de navegação desnecessário em uma folha impressa, há també
 
 #### Devemos tomar cuidado em relação às cores, pois há retirada de algumas delas e mudanças de tonalidade!
 
+### Exemplo de uma página web:
 
 ![Exemplo](./img/pagina-web.jpg)
 
-Exemplo da página web ao ser direcionada para a impressão
+### Exemplo desta página web ao ser direcionada para a impressão:
 
-<!-- ![Exemplo](./pagina-web.jpg) -->
-
+![Exemplo](./img/pagina-web-impressao-sem-media.jpg)
 
 
 #### Para manter as mesmas cores podemos usar:
@@ -57,14 +57,14 @@ Exemplo da página web ao ser direcionada para a impressão
 
 A mesma página web sendo direcionada para a impressão com o @media print
 
-<!-- ![Exemplo](./pagina-web.jpg) -->
+![Exemplo](./img/pagina-web-impressao-media.jpg)
 
 
 Dito sobre o Media Print, há mais uma opção para a resolução e melhoria de página web impressa que é o Page! 
 
 Basicamente ele é bem parecido com o @Media Print, porém mais optado se as mudanças para a impressão forem melhor relacionadas a formatação do espaçamento e a forma como o conteúdo deve se encaixar para que fique alinhado dentro da folha.
 
-### Exemplo de uso do @Page:
+## Exemplo de uso do @Page:
 
 ```
   @page {
