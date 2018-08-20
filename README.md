@@ -44,7 +44,7 @@ Além de um menu de navegação desnecessário em uma folha impressa, há també
 ![Exemplo](./img/pagina-web-impressao-sem-media.jpg)
 
 
-#### Para manter as mesmas cores podemos usar:
+### Para manter as mesmas cores podemos usar:
 
 ```
   @media print and (color) {
@@ -55,16 +55,19 @@ Além de um menu de navegação desnecessário em uma folha impressa, há també
   }
 ```
 
-A mesma página web sendo direcionada para a impressão com o @media print
+### A mesma página web sendo direcionada para a impressão com o @media print
 
 ![Exemplo](./img/pagina-web-impressao-media.jpg)
 
 
-Dito sobre o Media Print, há mais uma opção para a resolução e melhoria de página web impressa que é o Page! 
+
+
+
+## Dito sobre o Media Print, há mais uma opção para a resolução e melhoria de página web impressa que é o Page! 
 
 Basicamente ele é bem parecido com o @Media Print, porém mais optado se as mudanças para a impressão forem melhor relacionadas a formatação do espaçamento e a forma como o conteúdo deve se encaixar para que fique alinhado dentro da folha.
 
-## Exemplo de uso do @Page:
+### Exemplo de uso do @Page:
 
 ```
   @page {
